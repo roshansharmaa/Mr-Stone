@@ -1,12 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with MUI.
+# Project Title
+Mr Stone 
 
-Currently, two official plugins are available:
+## Description
+Implementing Axios 
+# Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Installing
+### Getting Started
+1. Simply download and open the project.
+2. Run the following commands:
+   ```bash
+   npm install
+   npm run dev
+   npm i @mui/material
+     
+   
+3. Most important add your own api key of fire base
+## License
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Live Preview
+* [Live Site](https://mr-stone.netlify.app/)
+
+## Acknowledgments
+* [Live Site](https://mr-stone.netlify.app/).  
